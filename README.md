@@ -8,5 +8,7 @@
 ---
 # 目前就职于 
    成都中科大旗软件有限公司 Java 研发工程师
+
+---
 # 个人简历 
   [周桥的个人简历](https://github.com/heyxyw/heyxyw.github.io/blob/master/resume.md) 
